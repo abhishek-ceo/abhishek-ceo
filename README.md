@@ -4,7 +4,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello!+I'm+Abhishek+Gupta" />
-        <img src="https://komarev.com/ghpvc/?username=abhlshe-k&style=for-the-badge&color=brightgreen" />
+        <img src="https://komarev.com/ghpvc/?username=gourav-abhishek&style=for-the-badge&color=brightgreen" />
 </a>
 
   </h2>
