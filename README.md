@@ -11,7 +11,7 @@
 
 
   <p>
-  🚀 Breaking things to build better ones.<br>
+ 
   <div style="display: flex; align-items: center; margin: 15px 0;">
     <img width="25" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" alt="learning"/>
     <span style="margin-left: 12px;">Currently mastering code, data & new possibilities.</span>
